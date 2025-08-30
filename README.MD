@@ -13,19 +13,19 @@ This project successfully integrates the XAgent framework into the L3AGI framewo
 - Comprehensive testing and documentation
 
 ## 📁 Project Structure
-```
-IAI_assignments_solution/
-├── integration/ # XAgent integration code
-│ ├── xagent_integration.py # Main integration class
-│ ├── langchain_replacement.py # LangChain replacement agent
-│ ├── config/
-│ │ └── xagent_config.yaml # Configuration file
-│ └── tests/ # Comprehensive test suite
-├── team-of-ai-agents/ # L3AGI framework
-├── XAgent/ # XAgent framework
-└── venv/ # Virtual environment (ignored)
-
-
+    ```
+    IAI_assignments_solution/
+    ├── integration/ # XAgent integration code
+    │ ├── xagent_integration.py # Main integration class
+    │ ├── langchain_replacement.py # LangChain replacement agent
+    │ ├── config/
+    │ │ └── xagent_config.yaml # Configuration file
+    │ └── tests/ # Comprehensive test suite
+    ├── team-of-ai-agents/ # L3AGI framework
+    ├── XAgent/ # XAgent framework
+    └── venv/ # Virtual environment (ignored)
+    ```
+    
 ## 🚀 Quick Start
 
 ### Prerequisites
