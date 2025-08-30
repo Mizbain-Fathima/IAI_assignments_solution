@@ -6,14 +6,14 @@ This project successfully integrates the XAgent framework into the L3AGI framewo
 
 ## 🎯 Objectives Achieved
 
-- ✅ Replaced LangChain ReAct Agent with XAgent framework
-- ✅ Maintained L3AGI framework integrity and functionality  
-- ✅ Ensured seamless integration with existing interfaces
-- ✅ Preserved LangSmith evaluation capabilities
-- ✅ Comprehensive testing and documentation
+- Replaced LangChain ReAct Agent with XAgent framework
+- Maintained L3AGI framework integrity and functionality  
+- Ensured seamless integration with existing interfaces
+- Preserved LangSmith evaluation capabilities
+- Comprehensive testing and documentation
 
 ## 📁 Project Structure
-
+```
 IAI_assignments_solution/
 ├── integration/ # XAgent integration code
 │ ├── xagent_integration.py # Main integration class
