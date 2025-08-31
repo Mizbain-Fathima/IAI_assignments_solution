@@ -48,7 +48,7 @@ This project successfully integrates the XAgent framework into the L3AGI framewo
 
 3. **Install dependencies**
     ```bash
-    pip install langchain langsmith openai aiohttp pyyaml
+    pip install -r requirements.txt
 
 4. **Test the integration**
     ```bash
